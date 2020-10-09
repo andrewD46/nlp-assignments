@@ -1,17 +1,13 @@
-# Задание 5
+# Assignment from dlcourse.ai course
 
-В этом задании мы натренируем свои собственные word vectors двумя разными способами. Это задание можно делать на CPU.
+This task implements word vectors in two different ways.
 
-Перед выполнением задания:
-- Запустите файл `download_data.sh`, чтобы скачать данные, которые мы будем использовать для тренировки.
-- Установите все необходимые библиотеки, запустив `pip install -r requirements.txt` (если раньше не работали с pip, вам сюда - https://pip.pypa.io/en/stable/quickstart/).
-
-## Часть 1
+## Part 1
 Word2Vec
 
-`Word2Vec.ipynb` - следуйте инструкциям в ноутбуке.
+`Word2Vec.ipynb`
 
-## Часть 2
+## Part 2
 Word2Vec with Negative Sampling
 
-`Negative Sampling.ipynb` - следуйте инструкциям в ноутбуке.
+`Negative Sampling.ipynb`
